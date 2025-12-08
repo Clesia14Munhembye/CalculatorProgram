@@ -1,2 +1,3 @@
-# -Calculator-Program
+# 
+CalculatorProgram
 Intro to Python Assignment
