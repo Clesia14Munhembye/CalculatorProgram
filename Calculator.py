@@ -14,3 +14,12 @@ print("Addition:", addition)
 print("A subtraction:", subtractions)
 print("multiplication:", multiplication)
 print ("division:", division) 
+
+# Dictionary Membership Test 
+numbers = {1:1, 3: 9, 5: 25, 7: 49, 9 : 81}
+print(1 in numbers)
+print (33 in numbers)
+
+
+    
+
